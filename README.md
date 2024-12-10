@@ -3,10 +3,7 @@
 <p align="center">
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="300">
 </p>
----
-Selamat datang di repositori **PBO dengan Python**! 🚀  
 Repositori ini berisi contoh kode, penjelasan, dan konsep penting tentang Pemrograman Berorientasi Objek (Object-Oriented Programming) menggunakan Python.  
----
 
 ## 🎯 Tujuan
 Repositori ini bertujuan untuk:
